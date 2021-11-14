@@ -2,7 +2,6 @@
 Images are taken from kaggle and google photos
 # Introduction
 Face detection is a computer technology being used in a variety of applications that identifies human faces in digital images. Face detection also refers to the psychological process by which humans locate and attend to faces in a visual scene.
-
 ### Prerequisites
 * face-detection
 * flask
@@ -33,3 +32,5 @@ Thanks goes to these wonderful people:
 </table>
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+`git clone: https://github.com/dhruvaop/corona-mask.git`
